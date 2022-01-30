@@ -1,3 +1,3 @@
 # Gizlilik Sözleşmesi
 
-Uygulama tarafindan kullanicilarin hicbir verisi depolanmamaktadir. Kullanicidan alinan internet ve depolama izinleri uygulamanin calismasi icin gerekli olmakla birlikte Google Ads servisleri tarafindan da kullaniciya uygun reklam gosterilmesi icin kullanilmaktadir.
+Uygulama tarafından kullanıcıların hiçbir verisi depolanmamaktadır. Kullanıcıdan alınan internet ve depolama izinleri uygulamanın çalışması için gerekli olmakla birlikte Google Ads servisleri tarafından da kullanıcıya uygun reklam gösterilmesi için kullanılmaktadır.
